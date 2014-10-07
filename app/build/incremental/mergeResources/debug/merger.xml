@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="menu"
+                path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\src\main\res\layout\menu.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >RSSFeed
+                </string>
+                <string name="label" >Current conditions in: 
+                </string>
+            </file>
+        </source>
+        <source path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\build\res\rs\debug" />
+        <source path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\jgillis\Downloads\com.example.RSSFeed.RSSFeed\app\src\debug\res" />
+    </dataSet>
+
+</merger>

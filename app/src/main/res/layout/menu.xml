@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Options">
+    <item android:id="@+id/refresh"
+        android:title="Refresh"/>
+</menu>
