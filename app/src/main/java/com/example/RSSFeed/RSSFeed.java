@@ -23,7 +23,7 @@ import android.view.MenuItem;
 import android.widget.TextView;
 
 public class RSSFeed extends Activity {
-	public static final String FEED_URL = "http://weather.yahooapis.com/forecastrss?w=2972&u=c";
+	public static final String FEED_URL = "http://www.winnipegfreepress.com/rss/?path=%2Flocal";
 	public URL xml_file;
 	public BufferedReader in;
 	RSSFeeder feedme;
