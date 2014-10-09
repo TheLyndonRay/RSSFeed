@@ -3,4 +3,4 @@
     android:title="Options">
     <item android:id="@+id/refresh"
         android:title="Refresh"/>
-</menu><!-- From: file:/C:/Users/Lyndon/Android/Projects/RSSFeed/app/src/main/res/layout/menu.xml -->
+</menu><!-- From: file:/C:/Users/Lyndon/AndroidStudioProjects/RSSFeed/app/src/main/res/layout/menu.xml -->

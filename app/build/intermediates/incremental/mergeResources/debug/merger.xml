@@ -2,34 +2,34 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\src\main\res" >
+        <source path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\src\main\res" >
             <file
                 name="ic_launcher"
-                path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\src\main\res\drawable-hdpi\ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\src\main\res\drawable-ldpi\ic_launcher.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\src\main\res\drawable-mdpi\ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="main"
-                path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\src\main\res\layout\main.xml"
+                path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\src\main\res\layout\main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="menu"
-                path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\src\main\res\layout\menu.xml"
+                path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\src\main\res\layout\menu.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\src\main\res\values\strings.xml"
+                path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\src\main\res\values\strings.xml"
                 qualifiers="" >
                 <string name="app_name" >RSSFeed
                 </string>
@@ -37,11 +37,11 @@
                 </string>
             </file>
         </source>
-        <source path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\build\generated\res\rs\debug" />
-        <source path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\build\generated\res\generated\debug" />
+        <source path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\build\generated\res\generated\debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\Lyndon\Android\Projects\RSSFeed\app\src\debug\res" />
+        <source path="C:\Users\Lyndon\AndroidStudioProjects\RSSFeed\app\src\debug\res" />
     </dataSet>
 
 </merger>

@@ -31,8 +31,6 @@ public class SAXHandler extends DefaultHandler {
             inItem = false;
         }
 
-
-
     }
 
     @Override
